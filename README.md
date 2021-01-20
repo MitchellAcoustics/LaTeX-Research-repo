@@ -16,7 +16,4 @@ By default, each of the subdirectories has a README.md which explains the intend
 
 The folder structures are based on the guidance given in [Noble WS (2009) A Quick Guide to Organizing Computational Biology Projects. PLOS Computational Biology 5(7): e1000424.](https://journals.plos.org/ploscompbiol/article?id=info:doi/10.1371/journal.pcbi.1000424) However, I have renamed some of the folders and differentiated between `notebooks` and `results` as most of my development work happens within Jupyter and Rmd notebooks. I also hate the label `bin` (binaries) for important stuff since I live in England and the bin is where you throw shit away. So, I renamed it `scripts`. Other than that, the principles should be the same as in Nobel (2009).
 
-![](https://journals.plos.org/ploscompbiol/article?id=info:doi/10.1371/journal.pcbi.1000424)
-
-
-
+![Folder structure from Noble (2009)](https://journals.plos.org/ploscompbiol/article?id=info:doi/10.1371/journal.pcbi.1000424)
