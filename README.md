@@ -1,4 +1,4 @@
-# LaTeX-Research-repo
+# Research-repo
 
 A template repo for writing and coding a research paper using LaTeX, Python, and R. Some more developed and different takes on this are:
 
