@@ -1,6 +1,10 @@
 # LaTeX-Research-repo
 
-A template repo for writing and coding a research paper using LaTeX, Python, and R
+A template repo for writing and coding a research paper using LaTeX, Python, and R. Some more developed and different takes on this are:
+
+* <https://github.com/nylander/ptemplate>
+* <https://github.com/Reproducible-Science-Curriculum/rr-init>
+* <https://github.com/chendaniely/computational-project-cookie-cutter>
 
 ## .gitignore
 
